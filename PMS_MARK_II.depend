@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671519001 source:c:\users\sahil\onedrive\documents\c project\pms_mark_ii\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

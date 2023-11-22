@@ -1,0 +1,3 @@
+1    ,Sahil Sharma        ,ULTRASOUND ,NOT PAID ,NULL        ,
+2    ,Mohd Asif Khan      ,CT SCAN    ,PAID     ,NET BANKING ,
+3    ,Rishita Singh       ,BLOOD      ,PAID     ,UPI         ,

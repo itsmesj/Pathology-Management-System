@@ -1,0 +1,3 @@
+    1, Dr. Apurva Kumar    ,COVID      ,40  ,8   , DAY   ,60000    ,
+2    , Dr. Rajeev Rana     ,MRI        ,40  ,8   , DAY   ,65000    ,
+3    , Dr. Prakash Juneja  ,BLOOD      ,45  ,11  , NIGHT ,55000    ,
